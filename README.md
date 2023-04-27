@@ -1,2 +1,6 @@
 # baidukunlun
-æ˜†ä»‘èŠ¯å®ä¹ å·¥ä½œè®°å½•&amp;practice
+axi_register_slice ÎÄ¼ş¼ĞÏÂÊÇ RTL´úÂëºÍtb
+tb_demo ÎÄ¼ş¼ĞÏÂÊÇ makefile
+
+Èç¹ûÎÄ¼şÎ»ÖÃ»òÎÄ¼şÃû·¢Éú¸Ä±ä£¬Ö±½ÓÈ¥verilog.fÎÄ¼şÖĞ×öÏàÓ¦ĞŞ¸Ä¼´¿É
+tb ÎÄ¼şÖĞµÄÀı»¯Ä£¿éÃû ¸ÄÎª tb_top
